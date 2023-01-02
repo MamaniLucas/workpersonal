@@ -1,0 +1,35 @@
+body{
+	margin: 0;	
+}
+#navegador{
+
+    width: px;
+    height: 30px;
+    background-color: #90EE90;
+    color: #FFFFFF;
+}
+#cuerpo{
+	height: 700px;
+	width: 500px;
+	background-color: 
+	color: #000000;
+	
+	padding: 20px;
+	margin: 0 auto;
+}
+#distrito{
+	float: right;
+}
+#columna{
+	width: 300px;
+	float: left;
+}	
+footer{
+	
+    height: 50px;
+    background-color: 	#90EE90;
+}
+form{
+	background-color: #F0F8FF;
+}
+

@@ -1,0 +1,26 @@
+form{
+	height: 700px;
+	width: 600px;
+	color: #000000;
+	font-family: sans-serif;
+	padding: 20px;
+	margin: 0 auto;
+	background-color: #F0F8FF;
+}
+body{
+	margin: 0;
+}
+footer{
+	
+    height: 50px;
+    background-color: 	#90EE90;
+}
+#nave{
+    width: px;
+    height: 30px;
+    background-color: #90EE90;
+    color: #FFFFFF;
+}
+h1{
+	text-align: center;
+}
